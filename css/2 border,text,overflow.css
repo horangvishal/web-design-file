@@ -1,0 +1,55 @@
+
+.border_image{
+             border: 2px
+             solid;
+
+             height: 300px;
+             width:400px;
+             border-image: url("../C:\Users\vishal chaudhary\Desktop\Web desiginig\Image\b.jpg") 5round;
+}
+
+img{
+	width: 100%;
+	height:300px; 
+}
+
+
+
+.h{
+border: 2px solid;
+overflow: auto;
+margin-top: 10px;
+height: 300px;
+  width:400px;
+text-align: justify;
+padding: 6px;
+
+}
+
+ul li{
+
+	list-style: none;
+}
+
+
+h2{ text-decoration: underline;
+	text-decoration: overline;
+	text-decoration: line-through;
+
+}
+
+h3{ text-transform: uppercase;}
+
+h4{text-transform:lowercase;}
+
+h5{text-transform: capitalize;}
+
+
+
+
+}
+
+
+
+
+

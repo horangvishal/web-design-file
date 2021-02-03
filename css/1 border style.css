@@ -1,0 +1,28 @@
+h2{
+	color: green;
+	border-top-color: blue;
+	border-top-width: 5px;
+	border-top-style:  dashed;
+	border-bottom-style: dotted;
+	    border-bottom-color: red;
+}
+
+.s{width: 105px;
+	height: 32px;
+	background: red;
+	color: white;
+	border-style: hidden;
+	font-weight: bold;
+    border-radius: 20px;
+}
+
+.d{
+	border: 2px solid;
+	width: 200px;
+	height: 300px;
+	margin: 5px;
+	float:left;
+	border-radius: 0 98px;
+    margin-left: 12px;
+
+}
